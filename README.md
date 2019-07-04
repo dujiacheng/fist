@@ -10,7 +10,7 @@
 - [ ] kubernets job based pipeline
 
 # auth
-For create a kubernetes user jwt token
+For create a kubernetes user jwt test
 
 ## install
 ```
